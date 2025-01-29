@@ -1,9 +1,13 @@
-# Calculator V3
+# Basic_Projects
+Basic codes used to improve my learning in C#.  Exploring as many resources as possible, this repository aims to expose my journey and demonstrate my skills in a practical way.
 
-  Intermediate and advanced logics were used to develop operations such as logarithm, potentiation, radiciation and factorial, in addition to being one of my first
-  contacts with Windows Forms.  In the end, using precisely as many resources as possible, a professional calculator was created.
+#1.Calculator 
 
-  > Calculator_V3: The files needed to understand and open the project.
+  To develop my skills in features such as array, enum, for, while, if else, functions, variable, constant, type conversions, programming logic and others, I created 3 versions
+  of the calculator (V1 and V2 in alternative branches and V3 in the main branch). In version 3, I improved my skills in editing and programming with Windows Forms, with a fully
+  interactive and full-function calculator.
 
-  > entered_code: The code to be accessed in an accessible way.
+#2.Measurement Converter
 
+  To improve my skills in using functions, parameters, returns, type transformations, logic and others, I also created 3 versions of the Measurement Converter (V1 and V2 in the
+  alternative branches and V3 in the main branch). Furthermore, I improved my skills with Windows Forms with a more creative and interactive window, similar to Google's Unit Converter.
