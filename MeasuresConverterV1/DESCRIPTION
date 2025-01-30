@@ -1,6 +1,7 @@
 # Measurement Converter V1
 
-Learning basic commands and interactions between variables, with switches and other features.
+Learning basic commands and interactions between variables, with switches and other features. The objective
+was to make a measurement converter that converts Brazilian units into US units.
 
 > MeasuresConverterV1: files needed to open and run the project.
 > entered_code: only the code to be consulted in an accessible way.
