@@ -7,6 +7,8 @@ Basic codes used to improve my learning in C#.  Exploring as many resources as p
   of the calculator. In version 3, I improved my skills in editing and programming with Windows Forms, with a fully
   interactive and full-function calculator.
 
+<img src = "https://github.com/user-attachments/assets/9d86de66-e6d8-414c-a55a-10bc069287db" width="400">
+
 
 
 
