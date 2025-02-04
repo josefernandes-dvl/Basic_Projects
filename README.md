@@ -9,7 +9,7 @@ Basic codes used to improve my learning in C#.  Exploring as many resources as p
 
 <img src = "https://github.com/user-attachments/assets/9d86de66-e6d8-414c-a55a-10bc069287db" width="200">
 
- (When you open the version folders, access the "DESCRIPTION" file to understand the organization of each folder).
+ (When open the version folders, access the "DESCRIPTION" file to understand the organization of each folder).
 
 
 
@@ -21,5 +21,5 @@ Basic codes used to improve my learning in C#.  Exploring as many resources as p
 
 <img src="https://github.com/user-attachments/assets/2d81927e-7dbd-430c-9454-bf09b7783198" width="350">
 
- (When you open the version folders, access the "DESCRIPTION" file to understand the organization of each folder).
+ (When open the version folders, access the "DESCRIPTION" file to understand the organization of each folder).
 
