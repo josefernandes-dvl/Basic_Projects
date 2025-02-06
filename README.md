@@ -11,7 +11,14 @@ Basic codes used to improve my learning in C#.  Exploring as many resources as p
 
  (When open the version folders, access the "DESCRIPTION" file to understand the organization of each folder).
 
+# 2.Measurement Converter
 
+  To improve my skills in using functions, parameters, returns, type transformations, logic and others, I also created 3 versions of the Measurement Converter. Furthermore, I
+  improved my skills with Windows Forms with a more creative and interactive window, similar to Google's Unit Converter.
+
+<img src="https://github.com/user-attachments/assets/2d81927e-7dbd-430c-9454-bf09b7783198" width="350">
+
+ (When open the version folders, access the "DESCRIPTION" file to understand the organization of each folder).
 
 
 
